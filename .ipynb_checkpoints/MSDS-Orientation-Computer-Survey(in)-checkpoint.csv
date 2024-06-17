@@ -1,0 +1,385 @@
+Timestamp,What is your uva net id? (e.g. mst3k),What is your github user name?,Operating System,CPU Cycle Rate (in GHz),CPU Number of Cores (int),RAM (in GB),Hard Drive Size (in GB),GPU (short description as a string),GPU CUDA Number of Cores (int)
+1/1/1970 0:00,mst3k,outlier,Any Linux,500,-3,256,5,rtx 48000,6002283
+6/12/2021 23:05,,,Windows 10,1.8,4,8,256,intel uhd 620,
+6/13/2021 20:36,,,Windows 10,2.8,4,16,460,Intel(R) Iris(R) Xe Graphics,
+6/13/2021 22:31,,,MacOS,3.1,2,8,512,Intel Iris Plus Graphics 650,
+6/14/2021 13:31,,,Windows 10,3.5,4,16,1000,NVIDIA GeForce GTX 1070 Ti,
+6/14/2021 14:13,,,MacOS,1.6,2,8,256,Intel HD Graphics 6000 1536 MB,
+6/14/2021 15:48,,,MacOS,2.7,2,8,250,Intel Iris Graphics 6100 1536 MB,
+6/14/2021 19:29,,,MacOS,2,8,16,256,Apple M1,
+6/14/2021 21:02,,,MacOS,3.1,2,8,250,Apple designed,
+6/15/2021 8:51,,,Windows 10,2.3,16,32,1000,NVIDIA GeForce RTX 2070 Super,
+6/15/2021 8:54,,,MacOS,2.3,8,32,512,Radeon 560x,
+6/15/2021 9:15,,,MacOS,2.6,6,16,500,Intel UHD Graphics 630 1536 MB,
+6/15/2021 9:17,,,Windows 10,3.8,8,32,1000,RTX 3080,
+6/15/2021 9:18,,,Windows 10,2.2,6,16,500,Nvidia GTX 1070 Max-Q,
+6/15/2021 9:22,,,MacOS,2.5,4,16,500,Intel Iris Pro 1536 MB,
+6/15/2021 9:23,,,Windows 10,2.9,5,8,237,NVIDIA GeForce GTX 1660 Ti,
+6/15/2021 9:23,,,MacOS,2.2,4,16,256,Intel Iris Pro 1536 MB,
+6/15/2021 9:25,,,MacOS,3.2,8,8,250,Apple M1 Chip,
+6/15/2021 9:26,,,Any Linux,2.8,4,32,500,Nvidia GTX 1060 6GB,
+6/15/2021 9:26,,,MacOS,2.6,4,202,16,Radeon Pro 450 2048 MB graphics,
+6/15/2021 9:26,,,MacOS,1.8,2,8,117,Intel HD Graphics 6000 1536 MB,
+6/15/2021 9:27,,,Windows 10,0.94,2,10,226,Intel(R) HD Graphics 620 (Full Display Device),
+6/15/2021 9:27,,,Windows 10,1.9,4,24,500,intel UHD graphics 620,
+6/15/2021 9:28,,,MacOS,3.1,5,16,251,Intel Iris Plus Graphics 650 1536 MB,
+6/15/2021 9:29,,,Windows 10,2.8,4,16,500,N/A,
+6/15/2021 9:30,,,MacOS,1.3,2,4,251,Intel HD Graphics 5000 1536 MB,
+6/15/2021 9:30,,,MacOS,2.6,6,16,500,Intel UHD Graphics 630 1536 MB,
+6/15/2021 9:31,,,Windows 10,2.8,4,16,512,Intel(R) Iris(R) Xe Graphics,
+6/15/2021 9:31,,,Windows 10,2.8,4,16,1000,intel(r) HD Graphics 630 & NVIDIA GeRForceGTX 1060,
+6/15/2021 9:31,,,Windows 10,2.5,2,8,238,Intel HD Graphics 620,
+6/15/2021 9:32,,,MacOS,2.6,2,8,256,"Intel Iris 1536 MB (I believe my Mac doesn't have the NVIDIA GeForce since it's mid 2014 and the 13"" version. From what I can tell, it looks like the GPU I have is integrated into the CPU from what I can gather online.)",
+6/15/2021 9:33,,,Windows 10,3.3,8,16,953,AMD Radeon Graphics,
+6/15/2021 9:34,,,MacOS,3.1,2,8,251,Intel Iris Plus Graphics 650 1536 MB,
+6/15/2021 9:34,,,MacOS,3.1,2,8,251,Intel Iris Plus Graphics 650 1536 MB,
+6/15/2021 9:34,,,MacOS,1.7,4,8,128,Intel Iris Plus Graphics 645,
+6/15/2021 9:35,,,Windows 10,1.6,4,8,256,nvidia® quadro® p520 2gb,
+6/15/2021 9:35,,,MacOS,1.3,2,4,251,Intel HD Graphics 5000,
+6/15/2021 9:36,,,MacOS,2,4,16,512,Intel Iris Plus Graphics 1536 MB,
+6/15/2021 9:37,,,MacOS,2.3,4,8,251,Intel Iris Plus Graphics 655 1536 MB,
+6/15/2021 9:37,,,MacOS,1.6,2,4,128,"I just bought a new laptop several days ago but I hasn't received that. It's Mac Pro 13.3 inches, with 16GB in RAM and 512 GB in Hard Drive Size.  ",
+6/15/2021 9:37,,,Windows 10,2.6,2,16,476,1) Intel(R) HD Graphics 520 & 2) NVIDIA GeForce GPU,
+6/15/2021 9:37,,,Windows 10,3.4,6,32,380,RX 480 4gb vram,
+6/15/2021 9:38,,,MacOS,3.1,2,8,500,Intel Iris Plus Graphics 650 1536 MB,
+6/15/2021 9:38,,,MacOS,2.9,2,8,251,Intel Iris Graphics ,
+6/15/2021 9:38,,,MacOS,2,4,16,512,Intel Iris Plus Graphics 1536 MB,
+6/15/2021 9:39,,,Windows 10,2.5,2,20,238,Intel(R) HD Graphics 620,
+6/15/2021 9:40,,,Windows 10,3.8,4,16,941,Nvidia Geforce GTX 1060,
+6/15/2021 9:42,,,MacOS,3.2,8,16,1000,Apple M1,
+6/15/2021 9:43,,,MacOS,2,4,16,500,Intel Iris Plus Graphics 1536 MB,
+6/15/2021 10:05,,,MacOS,2.2,4,16,500,Intel Iris Pro 1536 MB,
+6/15/2021 10:18,,,MacOS,3.2,8,16,995,Apple M1 ,
+6/15/2021 10:26,,,MacOS,2.3,2,8,251,Intel Iris Plus Graphics 640,
+6/15/2021 10:31,,,Windows 10,2.6,2,16,256,Intel HD Graphics 620,
+6/15/2021 10:36,,,MacOS,2.9,4,16,500,Intel HD 630 & Radeon Pro 560,
+6/15/2021 10:46,,,MacOS,2.3,8,16,500,Intel UHD Graphics 630 1536 MB,
+6/15/2021 10:57,,,MacOS,3.2,8,16,512,M1 8-Core GPU,
+6/15/2021 11:07,,,MacOS,2.2,2,8,500,"Intel HD Graphics 6000 1536 MB VRAM, built in Bus,  ",
+6/20/2021 12:32,,,Windows 10,1.6,4,8,237,Intel(R) UHD Graphics 620 (32 bits / pixel),
+7/27/2021 23:33,,,Windows 10,1.6,4,8,239,Intel (R) UHD Graphics 620,
+1/19/2022 10:17,,,Windows 10,2.3,8,64,512,Nvidia quadro,
+1/19/2022 18:30,,,Windows 10,2.2,6,16,1000,NVIDIA GTX 2070 Max q,
+1/19/2022 18:56,,,Windows 10,4.2,6,32,500,Radeon Rx 570,
+5/18/2022 12:30,lpa2a,alonzi,MacOS,2.5,2,16,500,Intel Iris Plus Graphics 640 1536 MB,0
+6/8/2022 17:39,xje4cy,Tyv132,Windows,2.8,4,16,512,Intel Iris Xe Graphics,4
+6/12/2022 21:25,qmn9tb,roryblakc,Windows,2.3,8,16,936,Intel(R) UHD Graphics,2560
+6/14/2022 11:51,ak7ra,ak7ra,MacOS,1.6,2,8,121,Intel UHD Graphics 617 1536 MB,2
+6/14/2022 13:00,can2hr,cnickol26,MacOS,3.1,4,8,256,"""Intel Iris Plus Graphics 650 1536 MB""",0
+6/14/2022 13:04,kjk6ee,Sonimon123,Windows,2.5,14,16,1000,NVIDIA GTX3070 Ti,6144
+6/14/2022 13:13,aar2dk,annedarong,MacOS,2.3,4,8,500,Intel Iris Plus Graphics 655 1536 MB,4
+6/14/2022 13:29,jm5xx,jasminemalik,MacOS,3.2,8,8,500,8,8
+6/14/2022 13:30,ljd3frf,levijb,Windows,3.3,4,32,1000,Intel Iris Xe graphics,4
+6/14/2022 13:52,rbr6vj,tykim-gh,Windows,2.5,14,16,512,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/14/2022 13:53,njk5yr,nkal22,MacOS,2.3,2,8,121,Intel Iris Plus Graphics 640,48
+6/14/2022 13:53,cl5bd,lesagecl,MacOS,2.3,2,16,250,Intel Iris Plus Graphics 640 1536 MB,0
+6/14/2022 13:56,bd4bk,bd4bk,Windows,2.8,4,16,1000,GTX 1050ti,768
+6/14/2022 13:57,qpk4kp,linnaeakavulich,Windows,2.71,2,8,237,equipment that quickly alters memory to render graphics,324
+6/14/2022 13:59,nad5na,nad5na,MacOS,3.22,8,16,512,"Apple M1 Pro, built-in",14
+6/14/2022 13:59,alw8ef,aubrwing,MacOS,3.2,8,16,995,Apple M1 Built-In Retina LCD,8
+6/14/2022 13:59,svz5ya,raulherale,MacOS,3.1,2,8,256,Intel Iris Plus Graphics 650 1536 MB,48
+6/14/2022 14:00,nbx5kp,theodore-thormann,MacOS,1.4,4,8,251,Intel Iris Plus Graphics 645 1536 MB,48
+6/14/2022 14:00,bnj8f,archytades,MacOS,3.2,8,8,250,Apple M1 Built in ,7
+6/14/2022 14:00,kmm4ap,meldrumkathryn,MacOS,1.8,2,8,250,Intel HD Graphics 6000 1536 MB,348
+6/14/2022 14:01,ers5af,tatevkyosababyan,MacOS,2.3,5,8,121,Intel Iris Plus Graphics 640 1536 MB,0
+6/14/2022 14:02,ezt4q,EZ-Tang,Windows,2.6,1,8,279,Intel(R) Core(TM) i7-9750H,6
+6/14/2022 14:03,nhk6up,nick-kalen,MacOS,3.2,10,32,500,Apple M1 Pro built-in,16
+6/14/2022 14:03,dfn7vs,kimbrellj,Windows,2.9,2,16,237,Intel(R) HD Graphics 620,24
+6/14/2022 14:03,emt4wf,erictria,MacOS,3.2,8,8,500,Apple M1 built-in GPU,8
+6/14/2022 14:04,qwa2uc,mmatheygr,Windows,4.7,14,16,512,NVIDIA GeForce RTX 3050,2560
+6/14/2022 14:04,ra5rc,ra5rc,Windows,2.34,4,16,222,Intel(R) UHD Graphics,630
+6/14/2022 14:04,jyd2hw,Haigro,Windows,2.1,6,12,256,AMD_Ryzen_5_5500U,6
+6/14/2022 14:05,wra2jv,gjagtap2,MacOS,3.2,8,8,245,Apple M1 Built-in,7
+6/14/2022 14:05,rg5xm,rachelegrace,Windows,2.3,8,16,512,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/14/2022 14:05,ufu2rg,eveschoen,MacOS,2.8,4,16,256,Intel HD Graphics 630 1536 MB,24
+6/14/2022 14:05,mej8nnm,MadeleineJonesUVA,MacOS,2.3,2,8,121,Intel Iris Plus Graphics 640,48
+6/14/2022 14:06,dm5tv,DaviM26,MacOS,2,4,16,512,Intel Iris Plus Graphics 1536 MB,24
+6/14/2022 14:06,bng3be,alseekford,MacOS,3.1,2,8,500,Intel Iris Plus Graphics 650 1536 MB,2
+6/14/2022 14:07,tdj5xk,clongchamp21,Windows,3,4,16,256,Intel R Iris R Xe Graphics,4
+6/14/2022 14:07,mk7kc,kim-minah,Windows,2.71,6,16,1024,Intel(R) UHD Graphics,384
+6/14/2022 14:08,dws3qd,davsiam57349,MacOS,3.2,10,16,995,Apple M1 Pro,0
+6/14/2022 14:08,xkv3na,mattm3456,MacOS,1.1,2,8,251,Intel Iris Plus Graphics 1536 MB,48
+6/14/2022 14:08,xje4cy,Tyv132,Windows,2.8,4,16,512,Intel Iris Xe,4
+6/14/2022 14:08,gbf6qz,gbfranko,MacOS,2.3,2,8,250,Intel Iris Plus graphics 640,384
+6/14/2022 14:09,kzj5qw,Griffin-McCauley,MacOS,1.6,2,8,251,Intel UHD Graphics 617 1536 MB,24
+6/14/2022 14:09,npm5ct,hyunsuk-ko,Windows,1.61,6,8,222,intel(r) UHD Graphics,0
+6/14/2022 14:09,djm6cz,dvnmc,MacOS,3.2,10,16,1000,Apple M1 Pro,0
+6/14/2022 14:09,jdg9vr,jdg9vr,MacOS,2.4,4,8,512,Intel Iris Plus Graphics 655,48
+6/14/2022 14:10,mst8gd,neilantrassian,MacOS,2.8,4,16,512,Quad-Core Intel Core i7,192
+6/14/2022 14:10,lmh2ur,lmh2ur,MacOS,3.2,8,16,512,Apple M1 Pro,0
+6/14/2022 14:11,ra5rc,ra5rc,Windows,2.4,4,16,222,Intel(R) Graphics UHD 630,24
+6/14/2022 14:11,vwr7bc@virginia.edu,namannaUVA,Windows,1.8,4,16,256,Intel(R) UHD Graphics 620,24
+6/14/2022 14:11,hbh4bv,Humairabh,MacOS,1.8,2,8,256,Intel HD Graphics 6000,48
+6/14/2022 14:11,jrd7ny,juliadeaver,MacOS,2.6,6,16,499,Intel UHD Graphics 630 1536 MB,48
+6/14/2022 14:11,jaw7cd,jaw7475,MacOS,3.2,8,16,512,Apple M1,14
+6/14/2022 14:12,nhs2bc,nadirsiddiqui,MacOS,2.1,10,16,1000,M1 Pro,16
+6/14/2022 14:12,rjw8ng,rjw8ng,Windows,2.7,2,8,242,Intel(R) HD Graphics 620,0
+6/14/2022 14:13,dad5bq,bellasamper,Windows,2.8,4,16,934,Intel(R) Iris(R) Xe Graphics,0
+6/14/2022 14:13,cjb7tt,CBush77,MacOS,1.6,2,4,251,Intel HD Graphics 6000 1536 MB,0
+6/14/2022 14:15,cz8yb,Chunru1995,MacOS,1.4,8,16,16,Apple M1,0
+6/14/2022 14:16,sk2hh,skoochagian,Windows,1.8,4,16,450,NVIDIA GeForce GTX 1050,640
+6/14/2022 14:17,wat6sv,aliroth,Windows,2.4,4,16,237,Intel(R) Iris(R) Xe Graphics,0
+6/14/2022 14:17,rm3xw,raymundo-mora,Any Linux,2.5,14,32,1000,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/14/2022 14:17,ygy8gd,nilo-farfan,Windows,2.4,2,8,237,Intel (R) HD Graphics 520,192
+6/14/2022 14:18,jeb5pb,JuliaBurek,MacOS,1.4,8,8,256,Apple M1,0
+6/15/2022 10:56,dcd9ce,domdecanio,Windows,3.5,4,16,446,GeForce GT 710,192
+6/17/2022 12:09,uxt5qb,kylerhalat-shafer,MacOS,2.2,6,16,250,Intel UHD Graphics 630,0
+6/18/2022 22:21,sbs4vb,sarahsaas1,MacOS,2.4,4,8,500,Intel Iris Plus Graphics 655 1536 MB,48
+8/22/2022 16:24,pct4et,zhanwenchen,MacOS,2.9,6,32,1024,Radeon Pro 560X,0
+8/22/2022 16:28,pct4et4,zhanwenchen,Any Linux,3.3,8,32,4096,NVIDIA RTX 3080,8960
+8/23/2022 9:43,yry2jy,bakerjf1993,Windows,3.7,6,32,2000,NVIDIA GeForce GTX 1080 Ti,7168
+3/30/2023 13:18,vrs4he,bexv,MacOS,3,10,64,2000,Apple M1 Max,24
+4/20/2023 14:10,mha4rh,davenpgh,Windows,1.8,4,16,461,0.7/7.9,10496
+5/4/2023 8:09,vkr7yx,atchiado,MacOS,128,8,8,245,Apple M1,7
+5/8/2023 10:33,sjk5cu,sjk5cu,MacOS,3.48,8,8,500,Apple M2,10
+5/21/2023 21:05,hrn4ch,hrnur,MacOS,3.1,2,8,256,Intel Iris Graphics 540,0
+5/23/2023 23:08,3066085 / fhu9hn,mmham-23,MacOS,3.49,10,16,512,Apple M2 Pro Chip,16
+6/13/2023 13:21,ac2gq,achapkim,Windows,3,8,16,935,NVIDIA GeForce RTX 2060 with Max-Q Design,5888
+6/13/2023 13:21,ac2gq,achapkim,Windows,3,8,16,935,NVIDIA GeForce RTX 2060 with Max-Q Design,5888
+6/13/2023 13:23,ped9zgx,pdunnington,I use Mac and Linux,2133,2,8,250,Intel Iris Plus Graphics,1
+6/13/2023 13:23,ped9zgx,pdunnington,I use Mac and Linux,2133,2,8,250,Intel Iris Plus Graphics,1
+6/13/2023 13:24,tp6mt,tripatpanesar,MacOS,3.2,8,8,256,M1,8
+6/13/2023 13:24,tp6mt,tripatpanesar,MacOS,3.2,8,8,256,M1,8
+6/13/2023 13:25,jjf4rp,,MacOS,3.6,12,32,1000,M2 Max,38
+6/13/2023 13:25,jjf4rp,,MacOS,3.6,12,32,1000,M2 Max,38
+6/13/2023 13:25,abl6ywp,augustlamb,Windows,2.3,8,16,500,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/13/2023 13:25,abl6ywp,augustlamb,Windows,2.3,8,16,500,NVIDIA GeForce RTX 3050 Ti Laptop GPU,2560
+6/13/2023 13:25,eda8ek,ethan-assefa,Windows,3.3,4,16,475,NVIDA GeForce RTX 3050 Ti Laptop GPU,2560
+6/13/2023 13:25,eda8ek,ethan-assefa,Windows,3.3,4,16,475,NVIDA GeForce RTX 3050 Ti Laptop GPU,2560
+6/13/2023 13:26,sab3hzc,brownasamuel,Windows,1.8,4,8,237,Intel(R) UHD Graphics 620,0
+6/13/2023 13:26,sab3hzc,brownasamuel,Windows,1.8,4,8,237,Intel(R) UHD Graphics 620,0
+6/13/2023 13:26,wet9me,willtenpas,MacOS,1.4,8,8,251,Intel Iris Plus Graphics 645,4
+6/13/2023 13:26,wet9me,willtenpas,MacOS,1.4,8,8,251,Intel Iris Plus Graphics 645,4
+6/13/2023 13:27,exd4er,,MacOS,2.3,4,8,250,Intel Iris Plus Graphics 655,48
+6/13/2023 13:27,exd4er,,MacOS,2.3,4,8,250,Intel Iris Plus Graphics 655,48
+6/13/2023 13:27,hrn4ch,hrnur,MacOS,3.49,8,8,245,Apple M2 GPU,8
+6/13/2023 13:27,hrn4ch,hrnur,MacOS,3.49,8,8,245,Apple M2 GPU,8
+6/13/2023 13:27,jdu5sq,jacquiunciano,Windows,4.7,10,16,1000,Intel® Iris® Xe Graphics,4
+6/13/2023 13:27,jdu5sq,jacquiunciano,Windows,4.7,10,16,1000,Intel® Iris® Xe Graphics,4
+6/13/2023 13:27,ajg7pk,AddisonGambhir,Windows,2.4,4,16,512,Integrated Graphics,0
+6/13/2023 13:27,ajg7pk,AddisonGambhir,Windows,2.4,4,16,512,Integrated Graphics,0
+6/13/2023 13:28,qdg9xwb,quinngl,MacOS,3.49,8,8,500,M2 Chip,10
+6/13/2023 13:28,qdg9xwb,quinngl,MacOS,3.49,8,8,500,M2 Chip,10
+6/13/2023 13:28,pcf4ku,bnik6789,Windows,2.6,6,16,952,NVIDIA GeForce GTX 1650 with Max-Q Design,1024
+6/13/2023 13:28,pcf4ku,bnik6789,Windows,2.6,6,16,952,NVIDIA GeForce GTX 1650 with Max-Q Design,1024
+6/13/2023 13:28,nem2pq,nem2pq,MacOS,1.6,2,8,256,Intel UHD Graphics 617 1536 MB,0
+6/13/2023 13:28,nem2pq,nem2pq,MacOS,1.6,2,8,256,Intel UHD Graphics 617 1536 MB,0
+6/13/2023 13:28,btp6ht,bpugs,MacOS,2.4,4,16,251,Intel Iris Plus Graphics,384
+6/13/2023 13:28,btp6ht,bpugs,MacOS,2.4,4,16,251,Intel Iris Plus Graphics,384
+6/13/2023 13:29,mkb2dxw,Mkbonner,MacOS,2.8,4,16,500,Intel Iris Plus Graphics 655 1536 MB,384
+6/13/2023 13:29,mkb2dxw,Mkbonner,MacOS,2.8,4,16,500,Intel Iris Plus Graphics 655 1536 MB,384
+6/13/2023 13:29,mtv2eva,mtvaden1,MacOS,2.4,4,8,500,Intel Iris Plus Graphics 655 1536 MB,1
+6/13/2023 13:29,mtv2eva,mtvaden1,MacOS,2.4,4,8,500,Intel Iris Plus Graphics 655 1536 MB,1
+6/13/2023 13:29,jjg5fg,jjg5fg,Windows,1.8,4,8,238,N/A,0
+6/13/2023 13:29,jjg5fg,jjg5fg,Windows,1.8,4,8,238,N/A,0
+6/13/2023 13:29,hrn4ch,hrnur,MacOS,3.49,8,8,245,Apple M2 GPU,8
+6/13/2023 13:29,hrn4ch,hrnur,MacOS,3.49,8,8,245,Apple M2 GPU,8
+6/13/2023 13:29,rjk9tt,rkim422,MacOS,1.4,4,8,256,Intel Iris Plus Graphics 645,1
+6/13/2023 13:29,rjk9tt,rkim422,MacOS,1.4,4,8,256,Intel Iris Plus Graphics 645,1
+6/13/2023 13:29,sjh7yg,silashayes,MacOS,1.6,2,8,128,Intel HD Graphics 4000,1
+6/13/2023 13:29,sjh7yg,silashayes,MacOS,1.6,2,8,128,Intel HD Graphics 4000,1
+6/13/2023 13:29,tmb9ccd,thomasbva,Windows,2.5,2,8,500,Intel HD Graphics 520,0
+6/13/2023 13:29,tmb9ccd,thomasbva,Windows,2.5,2,8,500,Intel HD Graphics 520,0
+6/13/2023 13:30,afj8am,,MacOS,3.2,8,8,512,Apple-designed integrated graphics,8
+6/13/2023 13:30,afj8am,,MacOS,3.2,8,8,512,Apple-designed integrated graphics,8
+6/13/2023 13:30,fmh7pv,fmh7pv,MacOS,1.6,2,8,25,Intel UHD Graphics 617,2
+6/13/2023 13:30,fmh7pv,fmh7pv,MacOS,1.6,2,8,25,Intel UHD Graphics 617,2
+6/13/2023 13:31,tmg6jda,tatev-mane,Windows,1.6,4,16,238,Intel(R) UHD Graphics 620,24
+6/13/2023 13:31,tmg6jda,tatev-mane,Windows,1.6,4,16,238,Intel(R) UHD Graphics 620,24
+6/13/2023 13:31,rhl8pk,rlipps,MacOS,3.49,10,32,1000,Apple integrated graphics,16
+6/13/2023 13:31,rhl8pk,rlipps,MacOS,3.49,10,32,1000,Apple integrated graphics,16
+6/13/2023 13:33,hsj5sn,skyejung,MacOS,1.4,4,8,121,Intel Iris Plus Graphics 645 1536 MB,0
+6/13/2023 13:33,hsj5sn,skyejung,MacOS,1.4,4,8,121,Intel Iris Plus Graphics 645 1536 MB,0
+6/13/2023 13:33,ssl2tew,serenelu-1,MacOS,2,4,16,500,Intel Iris Plus Graphics 1536 MB,0
+6/13/2023 13:33,ssl2tew,serenelu-1,MacOS,2,4,16,500,Intel Iris Plus Graphics 1536 MB,0
+6/13/2023 13:33,hsh5rs,TTrimb,Windows,2.4,4,8,238,Integrated graphic CPU (Intel(R) Xe Graphics ,0
+6/13/2023 13:33,hsh5rs,TTrimb,Windows,2.4,4,8,238,Integrated graphic CPU (Intel(R) Xe Graphics ,0
+6/13/2023 13:34,stf8saa,sfissel,MacOS,2.6,6,16,499,Intel UHD Graphics 630,192
+6/13/2023 13:34,stf8saa,sfissel,MacOS,2.6,6,16,499,Intel UHD Graphics 630,192
+6/13/2023 13:34,hmf9kx,hmf9kx,Windows,1.3,4,16,460,Intel(R) Iris(R) Plus Graphics,1000
+6/13/2023 13:34,hmf9kx,hmf9kx,Windows,1.3,4,16,460,Intel(R) Iris(R) Plus Graphics,1000
+6/13/2023 13:34,dnw9kq,rachel-holman,MacOS,3.6,12,32,64,Integrated GPU,38
+6/13/2023 13:34,dnw9kq,rachel-holman,MacOS,3.6,12,32,64,Integrated GPU,38
+6/13/2023 13:34,gp8cf,gwenpowers1,MacOS,3.49,10,16,512,Apple M2 Pro (Built-In),10
+6/13/2023 13:34,gp8cf,gwenpowers1,MacOS,3.49,10,16,512,Apple M2 Pro (Built-In),10
+6/13/2023 13:35,myp8ma,sunidhigoyal01@gmail.com,MacOS,1.4,4,8,256,Macbook_and_an_intel_chip_therefore_no_GPU_and_no_CUDA,0
+6/13/2023 13:35,myp8ma,sunidhigoyal01@gmail.com,MacOS,1.4,4,8,256,Macbook_and_an_intel_chip_therefore_no_GPU_and_no_CUDA,0
+6/13/2023 13:35,rkp3em,rpanagides,Windows,1.7,10,16,512,none,0
+6/13/2023 13:35,rkp3em,rpanagides,Windows,1.7,10,16,512,none,0
+6/13/2023 13:35,jsd8ar,mrubin3,Windows,2.5,4,8,237,Intel(R) Iris(R) Xe Graphics,4
+6/13/2023 13:35,jsd8ar,mrubin3,Windows,2.5,4,8,237,Intel(R) Iris(R) Xe Graphics,4
+6/13/2023 13:35,van8me,ithukral,MacOS,1.4,4,8,256,0,0
+6/13/2023 13:35,van8me,ithukral,MacOS,1.4,4,8,256,0,0
+6/13/2023 13:36,psa7rm,psa7rm,MacOS,3.5,8,8,16,M2 with 10-core GPU,10
+6/13/2023 13:36,psa7rm,psa7rm,MacOS,3.5,8,8,16,M2 with 10-core GPU,10
+6/13/2023 13:37,ddj6tu,sliplr19,Windows,2.6,4,16,471,Intel(R) Iris(R) Xe Graphics,1000
+6/13/2023 13:37,ddj6tu,sliplr19,Windows,2.6,4,16,471,Intel(R) Iris(R) Xe Graphics,1000
+6/13/2023 13:37,ear3cg,kaleigh315,Windows,2,8,16,512,AMD Radeon (TM) Graphics,8
+6/13/2023 13:37,ear3cg,kaleigh315,Windows,2,8,16,512,AMD Radeon (TM) Graphics,8
+6/13/2023 13:37,qex8sd,sydneymathiason,Windows,2.6,6,16,371,Intel UHD 630,1
+6/13/2023 13:37,qex8sd,sydneymathiason,Windows,2.6,6,16,371,Intel UHD 630,1
+6/13/2023 13:37,dxx3hs,wmilch,Windows,1.7,10,16,952,Intel(R) Iris(R) Xe Graphics,0
+6/13/2023 13:37,dxx3hs,wmilch,Windows,1.7,10,16,952,Intel(R) Iris(R) Xe Graphics,0
+6/13/2023 13:37,kjf4ec,,MacOS,2.5,2,4,500,Intel HD Graphics 4000 1024 MB,12
+6/13/2023 13:37,kjf4ec,,MacOS,2.5,2,4,500,Intel HD Graphics 4000 1024 MB,12
+6/13/2023 13:38,amo9f,aowen18,MacOS,2.4,8,16,250,Intel UHD Graphics 630,192
+6/13/2023 13:38,amo9f,aowen18,MacOS,2.4,8,16,250,Intel UHD Graphics 630,192
+6/13/2023 13:38,vrs4he,bexv,MacOS,3.2,10,64,2000,Built-in GPU,24
+6/13/2023 13:38,vrs4he,bexv,MacOS,3.2,10,64,2000,Built-in GPU,24
+6/13/2023 13:38,ssj9sw,ssj9sw,MacOS,3.2,10,64,4000,Apple M1 Max 32-Core GPU,32
+6/13/2023 13:38,ssj9sw,ssj9sw,MacOS,3.2,10,64,4000,Apple M1 Max 32-Core GPU,32
+6/13/2023 13:38,qje5v,thammo4,MacOS,3.5,8,8,500,Apple M2 (10 Core),10
+6/13/2023 13:38,qje5v,thammo4,MacOS,3.5,8,8,500,Apple M2 (10 Core),10
+6/13/2023 13:38,wjs3jc,,Windows,1.9,4,16,461,Intel(R) UHD Graphics 620,24
+6/13/2023 13:38,wjs3jc,,Windows,1.9,4,16,461,Intel(R) UHD Graphics 620,24
+6/13/2023 13:40,icy4r,icy4r,Windows,1.7,4,16,222,Intel(r) UHD Graphics 620,192
+6/13/2023 13:40,icy4r,icy4r,Windows,1.7,4,16,222,Intel(r) UHD Graphics 620,192
+6/13/2023 13:41,kno5cac,kristianolsson23,MacOS,2.3,2,8,500,Intel Iris Plus Graphics 640,384
+6/13/2023 13:41,kno5cac,kristianolsson23,MacOS,2.3,2,8,500,Intel Iris Plus Graphics 640,384
+6/13/2023 13:43,cfm5qc,cmclaugh3,MacOS,3.2,10,32,1000,Apple M1 Pro,16
+6/13/2023 13:43,cfm5qc,cmclaugh3,MacOS,3.2,10,32,1000,Apple M1 Pro,16
+6/13/2023 13:43,dk9nt,DanaKorotov,Windows,2.6,2,8,238,Intel(R) HD Graphics 520,192
+6/13/2023 13:43,dk9nt,DanaKorotov,Windows,2.6,2,8,238,Intel(R) HD Graphics 520,192
+6/13/2023 13:44,exd4er,clwilkie,MacOS,2.3,4,8,250,Intel Iris Plus Graphics 655,384
+6/13/2023 13:44,exd4er,clwilkie,MacOS,2.3,4,8,250,Intel Iris Plus Graphics 655,384
+6/13/2023 13:44,lej4us,lejarrett24,MacOS,3.1,2,16,500,Intel Iris Graphics 6100,384
+6/13/2023 13:44,lej4us,lejarrett24,MacOS,3.1,2,16,500,Intel Iris Graphics 6100,384
+6/13/2023 13:45,htq3wj,N/A,Windows,1.6,4,8,237,Intel(R) UHD Graphics 620,4
+6/13/2023 13:45,htq3wj,N/A,Windows,1.6,4,8,237,Intel(R) UHD Graphics 620,4
+6/13/2023 13:45,ujj2wd,,Windows,2.5,4,16,475,Intel (R) HD Graphics 520,4
+6/13/2023 13:45,ujj2wd,,Windows,2.5,4,16,475,Intel (R) HD Graphics 520,4
+6/13/2023 13:45,nyd8pd,graceziqi,Windows,2.5,2,8,237,Intel(R) HD Graphics 620,0
+6/13/2023 13:45,nyd8pd,graceziqi,Windows,2.5,2,8,237,Intel(R) HD Graphics 620,0
+6/13/2023 13:45,as4hfs,abhisingh5,MacOS,2.3,2,8,256,M2 integrates an Apple designed ten-core (eight in some base models) graphics processing unit,0
+6/13/2023 13:45,as4hfs,abhisingh5,MacOS,2.3,2,8,256,M2 integrates an Apple designed ten-core (eight in some base models) graphics processing unit,0
+6/13/2023 13:47,ab2kk,arnavboppudi,MacOS,2.3,2,8,500,Integrated Graphics,0
+6/13/2023 13:47,ab2kk,arnavboppudi,MacOS,2.3,2,8,500,Integrated Graphics,0
+6/13/2023 13:49,fqd2hj,mistrycoaster,Windows,1.8,5,8,224,Zero point two out of three point nine,5
+6/13/2023 13:49,fqd2hj,mistrycoaster,Windows,1.8,5,8,224,Zero point two out of three point nine,5
+6/13/2023 13:52,re4mfy,rosemuttikkal@gmail.com,MacOS,2.3,2,8,250,Intel Iris Plus Graphics 640,0
+6/13/2023 13:52,re4mfy,rosemuttikkal@gmail.com,MacOS,2.3,2,8,250,Intel Iris Plus Graphics 640,0
+6/19/2023 21:49,qrb2gn,Lingzhen718,Windows,1.8,4,8,512,Intel® UHD Graphics 620,1
+8/16/2023 20:09,sbv5dn,sbvgit,MacOS,2.6,6,16,500,"AMD Radeon Pro 5300M 4 GB
+Intel UHD Graphics 630 1536 MB",0
+8/16/2023 20:20,dms3gv,,Windows,3.8,6,32,8000,3080ti,10240
+8/16/2023 20:28,xxa4aa,AWHerzig,MacOS,1.4,4,8,250,Intel Iris Plus Graphics 645 1536 MB,48
+8/16/2023 23:44,qzx7av,kat9019,MacOS,3,2,8,500,Intel Iris 1536 MB,0
+8/17/2023 13:08,bjs6pj,p-landers,Windows,4.5,16,32,2048,Radeon 7900 XTX,6144
+8/17/2023 17:49,csl5hw,clotane,MacOS,3.2,8,8,245,Apple M1,8
+8/17/2023 18:25,yhp7nq,aswain4,MacOS,3.49,10,16,512,Apple M2 Pro,16
+8/17/2023 21:40,fcn2ay,kguan73611,Windows,2.8,4,16,931,NVIDIA GeForce GTX 1060,1280
+8/17/2023 21:44,jrr4n,cvillejustin,MacOS,3.49,10,16,500,Apple m2 pro,16
+8/18/2023 10:55,dja8tx,dananthony1,Windows,3.2,8,16,453,NVIDIA GEFORCE RTX 3060,3584
+8/18/2023 10:56,cg2wc,ConnorGlowacki,All of the above,3.6,8,32,3000,NVIDIA GeForce RTX 2070 Super,2560
+8/18/2023 11:21,vuh5mk,violetlucybig,Windows,2.9,4,16,930,Intel(R)Iris(R)XeGraphics,0
+8/19/2023 18:50,waa4bq,alfskoyen,MacOS,2.7,4,16,500,"NVIDIA GeForce GT 650M 1 GB, Intel HD Graphics 4000 1536 MB",384
+8/19/2023 22:59,aec4hr,AbnerECC,Windows,3.7,6,64,4250,NVIDIA GeForce RTX 3090,10496
+8/20/2023 7:40,qqx3eh,qqx3eh,Windows,3,8,16,100,GeForce RTX™ 2060,8
+8/20/2023 11:03,dkr5ud,dkr5ud,Windows,3.6,4,16,930,GTX 1650 Super,1280
+8/20/2023 12:23,hve2ku,justinliss,MacOS,1600,2,8,250,Intel HD Graphics 6000 1536 MB,0
+8/20/2023 15:06,zjl2ue,zacklisman,Windows,2.7,4,16,476,Intel(R) Iris(R) Xe graphics,13
+8/21/2023 1:02,nrg6cb,KazBarker,"Windows (by professional necessity), MacOS (by personal choice)",2.8,4,16,476,Intel(R) Iris(R) Xe Graphics,4
+8/21/2023 2:33,bfk7sz,,MacOS,2.8,2,16,256,na,0
+8/21/2023 18:52,xuw9ap,nlyell7,MacOS,2.3,2,16,264,Intel Iris Plus Graphics 640 1536 MB,2
+8/21/2023 21:39,mkc3zx,CaseyHeyman,MacOS,1.4,4,8,500,Intel Iris Plus Graphics 645 1536 MB,0
+8/22/2023 13:05,uay3yb,KanittaSrichan,Windows,1.8,10,16,256,Intel Iris Xe Graphics,0
+8/22/2023 16:54,am5uc,am5uc,Windows,1.7,4,16,370,Intel(R) Iris(R) Xe Graphics and NVIDIA GeForceMX550,1024
+8/22/2023 18:11,mbf4ay,Mofarooq1,MacOS,2.3,4,8,256,Intel Iris Plus Graphics 65,1536
+8/22/2023 18:56,wfn8aj,aziza-ar,MacOS,3.3,12,16,512,Apple M2 Pro 19-Core GPU,19
+8/22/2023 22:46,krb3ym,melmoheb,Windows,4.1,4,16,2000,GTX 1080,2560
+8/24/2023 17:12,rn7ena,oatmeelsquares,Windows,1.6,4,8,235,Intel(R) UHD Graphics 620,0
+8/24/2023 21:26,qqx3eh,qqx3eh,Windows,3,8,16,900,GeForce RTX™ 2060,1920
+8/27/2023 12:55,maa5em,aalbaran,Windows,4.8,4,32,471,Intel® Iris® Xe Graphics,96
+12/30/2023 13:53,sck4jh,Sam-Knisely,MacOS,2.3,2,8,121,Intel Iris Plus Graphics 640 1536 MB,2
+12/30/2023 17:18,bdg5g,bgenz,Windows,3.8,8,64,1024,NVIDIA GeForce RTX 3060,3584
+1/11/2024 20:59,mxg9xv,Datascifer,Windows,3.4,16,32,1000,RTX 3070 Ti,6144
+1/11/2024 20:59,qsh9fk,,Windows,2.4,4,20,930,‎Intel Iris Xe Graphics,4
+1/12/2024 22:19,tar3kh, ThinkTim21,Windows,2.5,4,16,512,NVIDIA Quadro K1100M,384
+1/13/2024 16:07,rrp5ut,kimiGee,Windows,2.9,4,32,929,NVIDIA Quadro M1200,640
+1/13/2024 17:39,fxj5fe,david-hernandz,Windows,2.5,4,8,237,3.9 GB,4
+1/14/2024 14:26,uwa6xv,AlannaHazlett,MacOS,3.68,12,16,995,Apple M2,19
+1/14/2024 17:42,cbv6gd,DevlinBridges,MacOS,181,8,24,994,Apple M2,10
+1/14/2024 21:36,qfw3cr,VictorOntiverosR,Windows,2.7,2,8,225,Intel (R) H GRaphics 620,0
+1/15/2024 12:09,wpl3a,,MacOS,3.2,10,32,2000,Apple M1 Max,32
+1/16/2024 22:17,dss2q,,Any Linux,3.5,4,16,250,GTX 960,1024
+1/16/2024 23:18,db5kb,,Windows,3.9,4,16,512,GeForce MX330,4
+1/17/2024 18:11,pkc4aqh,prathch2,Windows,3.3,8,16,930,AMD Radeon™ RX 6800S,8
+1/17/2024 23:08,zsf9pd,ABOVicky,MacOS,3.2,10,16,1000,Apple M1 Pro Built-In GPU,16
+1/18/2024 8:21,esa5ch,ericsarnold-UVA-MSDS,Windows,2.6,14,32,928,GeForce RTX 4070 Laptop,14
+1/21/2024 17:06,kvu2et,tribbens,MacOS,3.5,8,24,1000,Apple M2 10-Core GPU,10
+1/21/2024 17:27,dfe2zj,venkatviswa,MacOS,3.2,10,64,1000,24 core GPU,10
+1/21/2024 20:40,mjk3ku,jacobkuchta,Windows,2.2,24,16,952,NVIDIA GeForce RTX 4060 Laptop GPU,3072
+1/22/2024 19:51,cdw7dr,chriswikoff,MacOS,3.49,8,8,256,10-Core GPU,0
+1/23/2024 14:05,ctx8bn,isabellapaolucci,MacOS,3.49,8,16,494,Built-in Retina LCD 2560 x 1600 Retina,10
+4/12/2024 14:09,asm2fe,ashley-m,Windows,1.4,16,16,1024,Intel Arc integrated,8
+5/23/2024 9:09,pi3tau,piguy,Any Linux,4.2,16,64,1000,4090,1236
+5/23/2024 14:48,ggd8hvd,georgiagrace207,Windows,2.59,6,16,476,Intel(R) UHD Graphics 630,896
+5/23/2024 14:52,ggd8hvd,georgiagrace207,Windows,2.59,6,16,476,Intel(R) UHD Graphics 630,896
+6/10/2024 21:27,vrf4gm,AinsleyM02,Windows,1.3,10,16,500,Intel(R) Iris(R) Xe Graphics,0
+6/13/2024 13:54,zy7ts,@alexyang790,MacOS,3.2,8,8,256,Integrated with CPU ,8
+6/13/2024 13:56,ASM2FE,ashley-m,Windows,3.8,16,16,1024,Integrated,0
+6/13/2024 13:57,mtb2tgk,mattbeck1,MacOS,2.4,4,8,250,Intel Iris Plus Graphics 655 1536 MB,0
+6/13/2024 13:59,fnj7ht,dishhhha,MacOS,3.228,10,16,512,14,24
+6/13/2024 13:59,fyx6wf,fyx6wf,MacOS,3.9,4,8,128,Intel Iris Plus Graphics 645,48
+6/13/2024 13:59,ggd8hvd,georgiagrace207,Windows,2.59,6,16,476,Inter(R) UHD Graphics 630,896
+6/13/2024 14:01,qdy4zt,charbelmarche33,Windows,2.8,4,16,475,Intel Iris Xe Graphics,1
+6/13/2024 14:01,bcp8dm,Dorukozar,MacOS,4.05,14,48,1000,Apple-designed integrated graphics (8–40 core),0
+6/13/2024 14:01,gnq2mr,jamessiegener,MacOS,3.2,8,16,512,M1 Integrated 8 core GPU,0
+6/13/2024 14:01,mdp8gd,cvanniek,Windows,2.4,4,16,512,HP Spectre x360 with Intel Core i7-1165G7,1536
+6/13/2024 14:01,js7jx,Jonathan-swap,MacOS,4.05,12,18,994,18,0
+6/13/2024 14:01,qmy6cv,qmyhd,Windows,2.6,6,16,457,NVIDIA GeForce GTX 1660 Ti,1536
+6/13/2024 14:02,qtf7du,vishugp,Windows,1.6,10,32,1000,Intel(R) UHD Graphics + NVIDIA RTX A500,4
+6/13/2024 14:03,ljn5yms,lnap24,MacOS,1.4,4,16,251,Intel Iris Plus Graphics 645,48
+6/13/2024 14:04,uqs3dq,uqs3dq,Windows,1,4,8,236,Intel(R) UHD Graphics,0
+6/13/2024 14:04,eqa7yg,mermora97,Windows,1.3,10,16,512,Intel Core i5,0
+6/13/2024 14:04,ft8xx,fturkistani,MacOS,3.2,8,8,256,Apple M1,8
+6/13/2024 14:05,nps3cs,kurt-jr,MacOS,2,4,16,516,Intel Iris Plus Graphics 1536 MB,0
+6/13/2024 14:06,fjp8ez,notjavo,MacOS,3.5,12,16,512,M2 Pro,19
+6/13/2024 14:06,ttg6nx,tylergorecki,MacOS,4.05,16,18,994,Apple M3 Pro,18
+6/13/2024 14:06,wgp3aq,wperitz,MacOS,2.6,6,16,1000,AMD Radeon Pro 5300M 4 GB,1280
+6/13/2024 14:06,cpm6gh,AndrewCornfeld,Windows,1.7,10,16,512,Intel(R) Iris(R) Xe Graphics,10
+6/13/2024 14:06,wbd3kw,riyapulla,Windows,1.8,2,8,121,Intel HD Graphics 6000 1536 MB,2
+6/13/2024 14:06,kl2jmx,,Windows,3.8,16,32,1000,Integrated graphics,0
+6/13/2024 14:06,ajh5ae,ashleyjhuang,Windows,1,10,8,215,Intel(R) Iris(R) Xe Graphics,10
+6/13/2024 14:07,jak5je,JKenzak,MacOS,1.1,2,8,251,Intel Iris Plus Graphics 1536 MB,0
+6/13/2024 14:07,ksg8xy,hyounce,MacOS,3.2,8,8,494,Apple M1,8
+6/13/2024 14:07,arg8qqv,argoel21,MacOS,3.2,8,16,494,Apple M1 Pro,14
+6/13/2024 14:07,cwp5xyj,charlie-perez-35,Windows,1.3,4,8,512,Intel Iris Plus Graphics,512
+6/13/2024 14:07,nuf8ms,trenton-slocum,MacOS,4.05,14,36,1000,M3 Max chip with 30 core integrated gpu,0
+6/13/2024 14:08,ncc9kn,colbyle25,MacOS,1.2,4,16,250,Intel Iris Plus Graphics 1536 MB,0
+6/13/2024 14:08,dcy2dq,,Windows,1.7,10,16,477,Intel (R) iRIS(R) Xe Graphics,0
+6/13/2024 14:08,gbz6qn,i-levy,MacOS,3.2,8,8,245,Apple M1,7
+6/13/2024 14:08,aa7dd,AfnanAbdul,MacOS,2.3,8,32,1000,Intel UHD Graphics 630 1536 MB,192
+6/13/2024 14:09,yuk7du,cartday8,Windows,1.1,4,8,128,Intel Iris Plus Graphics,655
+6/13/2024 14:09,uua9gw,lathangregg,MacOS,2.3,8,16,500,Radeon Pro 560X 4 GB,8
+6/13/2024 14:09,rs7aq,rs7aq,Windows,1.39,10,16,512,Intel (R) Iris (R) Xe Graphics,0
+6/13/2024 14:09,tjs5nx,Taylor-Skomp,Windows,1.3,10,16,512,Intel Iris Xe Graphics,10
+6/13/2024 14:10,dgr7pb,Pstone2,Windows,1.5,4,32,2000,NVIDIA GeForce GTX 1660 Ti with Max-Q Design,1536
+6/13/2024 14:10,bur6yx,muhurto-rahman,Windows,3.2,8,16,474,NVIDIA GeForce RTX 3050 6GB,2304
+6/13/2024 14:10,yss2zv,courtneyhodge,Windows,2.1,4,16,952,RTX 4050 GPU,0
+6/13/2024 14:10,jst7ee,jst7ee,Windows,1.8,16,16,952,AMD Radeon Graphics Processor,0
+6/13/2024 14:11,skk8kc,djl1626,MacOS,2.6,6,16,500,Intel UHD Graphics 630,0
+6/13/2024 14:11,ak2znr,akaashkamdar,MacOS,2.93,8,8,512,Apple M2 Built-In 8 Core GPU,8
+6/13/2024 14:12,fmt2tg,richardkuehn,MacOS,3.2,10,16,494,Apple M1 Pro,0
+6/13/2024 14:12,mdg7wj,BenPelczy,MacOS,3.2,8,8,494,Apple M1,0
+6/13/2024 14:12,prz3dt,chr1st1n3g30rg3,Windows,180,4,8,212,Intel(R) UHD Graphics 620,0
+6/13/2024 14:12,qja8kc,bernard-gonzales,Windows,2.3,4,16,952,NVIDIA GeForce GTX 1050 with Max-Q Design,640
+6/13/2024 14:12,sqr8ap,sqr8ap,MacOS,3.2,8,16,1000,M1,0
+6/13/2024 14:12,urn8he,kianadane,MacOS,3,3,8,494,"	Apple-designed integrated graphics (8–76 core)",8
+6/13/2024 14:13,vrd9sd,lukeschneider7,MacOS,698,4,16,512,Intel Iris Plus Graphics 1536 MB,0
+6/13/2024 14:13,qcp6az,finnmok,Windows,1.5,4,16,239,Intel(R) Iris(R) Plus Graphics,0
+6/13/2024 14:13,czz7bf,csjapic,Windows,2.9,4,8,475,3.8,0
+6/13/2024 14:14,dbm4bj,rsfellman,Windows,2.6,6,32,475,Intel(R) UHD Graphics 630,640
+6/13/2024 14:14,wtc6vz,,Windows,1.99,4,16,475,Intel(R) UHD Graphics 620,0
+6/13/2024 14:14,unc6kr,hvalenty,Windows,2.4,4,12,458,Intel(R) Iris(R) Xe Graphics,0
+6/13/2024 14:14,lgs4zj,Lucy-Shichman,MacOS,4.05,8,16,512,Apple-designed integrated graphics,10
+6/13/2024 14:15,ag6ykz,alandag24,MacOS,3.2,8,8,251,Apple M1,0
+6/13/2024 14:16,ehe5bn,Zach0411,Windows,1.7,12,16,1000,Intel Core Ultra 7,12
+6/13/2024 14:16,lgr2sge,learunesha,MacOS,3.49,16,8,245,Apple-designed integrated graphics (8–76 core),16
+6/13/2024 14:17,jah9kqn,johnhope829,MacOS,1.6,2,16,251,Intel UHD Graphics 617 1536 MB,0
+6/13/2024 14:17,svw6dn,trivedidn,Windows,2,4,40,280,NVIDIA GeForce GTX 1050,768
+6/13/2024 14:23,gry6ks,bcastro20,Windows,1.9,4,32,32,Intel(R) UHD Graphics 620,4
+6/13/2024 14:25,xmc6rp,Coues10624,Windows,1.9,4,16,256,Intel Integrated HD Graphics 620,4
+6/13/2024 14:26,drz8rt,casscub24,Windows,1.9,4,32,32,Intel(R) UHD Graphics 620,0
+6/13/2024 18:33,gec2tp,GEMcordelli,Windows,2.3,8,32,471,NVIDIA T1200,1024
+6/13/2024 21:35,asm2fe,ashley-m,Windows,3.8,16,16,1024,Intel Arc integrated,0
